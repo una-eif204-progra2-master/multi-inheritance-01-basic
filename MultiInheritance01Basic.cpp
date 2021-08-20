@@ -5,7 +5,7 @@
  *
  *    Description:  Basic example of multi inheritance
  *
- *        Created:  26/07/2021 Repo
+ *        Created:  26/07/2021 Repo-Clion
  *
  *         Author:  Maikol Guzmán mike@guzmanalan.com
  *   Organization:  Universidad Nacional de Costa Rica
